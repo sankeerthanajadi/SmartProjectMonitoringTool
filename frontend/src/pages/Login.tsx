@@ -38,7 +38,7 @@ export const Login = () => {
     <div style={styles.container}>
       <div style={styles.card}>
         <div style={styles.header}>
-          <h1 style={styles.title}>📊 Smart Project Monitor</h1>
+          <h1 style={styles.title}>📊 Smart Project Monitoring Tool</h1>
           <h2 style={styles.subtitle}>Login to your account</h2>
         </div>
 
